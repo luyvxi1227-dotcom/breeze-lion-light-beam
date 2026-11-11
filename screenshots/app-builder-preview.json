@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "圆轨",
+      "hasCanvas": false,
+      "bodyTextLen": 136,
+      "bodyTextHash": "f26d0c6889c6ec88c536522e983ff978b1714d8bde46a3025b00231def268033",
+      "bodyTextPrefix": "ORBITAL WATCH 圆轨 点选天体，镜头平滑聚焦 星历 0 日 太阳 水星 金星 地球 火星 木星 土星 天王星 海王星",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "圆轨",
+      "hasCanvas": false,
+      "bodyTextLen": 77,
+      "bodyTextHash": "d2f25510fbce099ac5d8263aca5231853facfb8261dc269ec9530ecbe4283e2c",
+      "bodyTextPrefix": "ORBITAL WATCH 圆轨 星历 0 日 太阳 水星 金星 地球 火星 木星 土星 天王星 海王星 圆头耄耋 暂停 流速 ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
